@@ -1,4 +1,4 @@
-A power B 
+"""A power B 
 Given 2 numbers - A and B, evaluate AB.
 
 
@@ -77,7 +77,7 @@ Explanation
 Self Explanatory
 
 #solution
-
+"""
 
 
 def APB(a,b,m):
