@@ -1,4 +1,4 @@
-Checkerboard Pattern bookmark_borderYou are given an integer N. Print a 2N×2N checkerboard consisting of 2×2 squares alternating '*' and '-', with the top-left cell being '*'. See the following examples for N = 1,2,3 and 4 respectively.
+/* checkerboard Pattern bookmark_borderYou are given an integer N. Print a 2N×2N checkerboard consisting of 2×2 squares alternating '*' and '-', with the top-left cell being '*'. See the following examples for N = 1,2,3 and 4 respectively.
   N = 1           N = 2                      N = 3
               N = 4
 Input Format
@@ -33,6 +33,9 @@ Case #2:
 --**
 
 
+
+*/
+
 import java.io.*;
 import java.util.*;
 
@@ -60,4 +63,5 @@ public class Main {
             }
         }
     }
+
 }
